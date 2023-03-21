@@ -33,7 +33,7 @@ The submission files for all models are included in the repository:
 
 - `LR_submission.csv`: Submission file for the logistic regression model.
 - `RF_submission.csv`: Submission file for the random forest model.
-- `XG_B_sample_submission.csv`: Submission file for the XGBoost model.
+- `XGBoost_submission.csv`: Submission file for the XGBoost model.
 
 ## Dataset
 
