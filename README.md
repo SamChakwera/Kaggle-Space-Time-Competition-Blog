@@ -43,4 +43,5 @@ The dataset for this competition is provided by Kaggle and contains the followin
 - `test.csv`: The test set.
 - `sample_submission.csv`: A sample submission file.
 
+## Contact:
 If you have any issues with running the code please contact me at [@stchakwera](https://medium.com/@stchakwera)
