@@ -6,16 +6,17 @@ In this [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titan
 
 The following files are included in the repository:
 
-- `LICENSE`: The license file for the repository.
 - `Logistic Regression.ipynb`: Jupyter notebook containing code for logistic regression model.
 - `Random Forest H2O.ipynb`: Jupyter notebook containing code for random forest model using H2O.ai.
-- `README.md`: This readme file.
+- `XG_Boost.ipynb`: Jupyter notebook containing code for XGBoost model.
+- `LR_submission.csv`: Submission file for the logistic regression model.
 - `RF_submission.csv`: Submission file for the random forest model.
+- `XGBoost_submission.csv`: Submission file for the XGBoost model.
 - `sample_submission.csv`: Sample submission file provided by Kaggle.
 - `test.csv`: Test dataset provided by Kaggle.
 - `train.csv`: Train dataset provided by Kaggle.
-- `XG_Boost.ipynb`: Jupyter notebook containing code for XGBoost model.
-- `XGBoost_submission.csv`: Submission file for the XGBoost model.
+- `README.md`: This readme file.
+- `LICENSE`: The license file for the repository.
 
 ## Models
 
