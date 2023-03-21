@@ -1,6 +1,6 @@
 # Kaggle Space Time Competition Blog
 
-In this [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview), the goal is to predict which passengers are transported to an alternate dimension after a space Titanic shipwreck. This repository contains the code for the competition submission. You can find the [orginal blog post here](https://medium.com/@stchakwera) if you please feel free to explore files and tweak them to your hearts content. If you find any of this helpful please follow my blog. 
+In this [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview), the goal is to predict which passengers are transported to an alternate dimension after a space Titanic shipwreck. This repository contains the code for the competition submission. You can find the [orginal blog post here](https://medium.com/@stchakwera) if you please feel free to explore files and tweak them to your hearts content. If you find any of this helpful please consiter following my blog. 
 
 ## Files
 
